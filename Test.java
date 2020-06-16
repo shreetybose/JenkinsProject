@@ -1,9 +1,9 @@
-class test{
+public class test {
 
-public static void main {String[] args}
-{
-System.out.println("Jenkins Execution");
-}
+	public static void main(String[] args) {
+		
+		System.out.println("Hello Shreety");
 
+	}
 
 }
